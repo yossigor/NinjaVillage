@@ -57,8 +57,20 @@ The main screen consists of:
     1. **Ninjas**. List of all the ninjas in the village.
     2. **Missions**. In this screen the player will be able to assign ninjas to missions and see the progress of current missions.
 
+### Selecting missions
+
+After completing the staring screen and selecting three legandary ninjas the player will be moved to the main screen. There he can pick a mission and start playing the game. He will pick some missions and click on a *next turn button* and the progress of the missions will be updated.
+
 ## Development and technology
 
 We will probably implement this game in Unity although this is not a final decision. Suggestions are welcome.
 
 The game will be completey open source because it is a project for learning game development.
+
+## Roadmap
+
+1. Complete the game description.
+2. Design the game screens (in draw.io or something simillar).
+3. Decide a technology that the game will be implemented in.
+4. Decide on a platform.
+5. Implement the first 10 minutes of the game.
