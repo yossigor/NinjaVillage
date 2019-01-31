@@ -65,6 +65,10 @@ After completing the staring screen and selecting three legandary ninjas the pla
 
 We will probably implement this game in Unity although this is not a final decision. Suggestions are welcome.
 
+We need to consider developing in Godot. There are a nice tutorial for GUI in Godot : https://docs.godotengine.org/en/3.0/getting_started/step_by_step/ui_game_user_interface.html
+
+We need to write some conclutions based on this tutorial and we need to try building a simple game for android device in Godot and see if it is a possible solution for us.
+
 The game will be completey open source because it is a project for learning game development.
 
 ## Roadmap
